@@ -19,7 +19,7 @@
 <body>
     <header>
         <nav>
-            <div class="left">Pratyush's Portfolio</div>
+            <div class="left">Gopal's Portfolio</div>
             <div class="right">
                 <ul class="menu">
                     <li><a href="#" class="active">Home</a></li>
@@ -35,7 +35,7 @@
         <section class="firstsection">
             <div class="left-container">
                 <div class="lefttext">
-                    Hi! I am <span class="col">Pratyush</span>
+                    Hi! I am <span class="col">Gopal</span>
                     <div>and I am a </div>
                     <span id="element"></span>
                 </div>
@@ -55,7 +55,7 @@
         <div class="footer" id="footer">
             <div class="col1">
                 <h3>ABOUT</h4>
-                    <span class="name">Pratyush's Portfolio</span>
+                    <span class="name">Gopal's Portfolio</span>
                     <div>is a blog website where</div>
                     <div>you will find geate tutorial</div>
                     <div>on web design and development</div>
@@ -88,22 +88,22 @@
             <div class="follow">
                 <h3>FOLLOW ME ON</h4>
                     <div class="social">
-                        <a href="https://www.facebook.com/pratyush.mishra.52056223">
+                        <a href="https://www.facebook.com/ronak.agrawalla.5">
                             <i class="fab fa-facebook-f"></i>
                         </a>
-                        <a href="https://www.youtube.com/@pratyushgamingyt6380">
+                        <a href="https://www.youtube.com/channel/UCsTZaLaDlXNr1SVopmvIfHQ">
                             <i class="fab fa-youtube"></i>
                         </a>
-                        <a href="https://www.instagram.com/pratyush_mishra_02?igsh=bjU5bWU1bHBkaXR6">
+                        <a href="https://www.instagram.com/ronakagrawalla?igsh=NXhtanAzamc3ZDZq">
                             <i class="fab fa-instagram"></i>
                         </a>
-                        <a href="https://t.me/PratyushGamingYT">
+                        <a href="https://t.me/GopalAgrawalla9">
                             <i class="fab fa-telegram"></i>
                         </a>
-                        <a href="https://github.com/pratyushkumarmishra02">
+                        <a href="https://github.com/GopalAgrawalla">
                             <i class="fab fa-github"></i>
                             <a
-                                href="https://www.linkedin.com/in/pratyush-kumar-mishra-324294295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                                href=https://www.linkedin.com/in/gopal-agrawalla-8532b22aa/">
                                 <i class="fab fa-linkedin"></i>
                             </a>
                         </a>
@@ -114,7 +114,7 @@
 
         </div>
         <div class="copy">
-            <span>&copy; 2024 Pratyush's Portfolio</span>
+            <span>&copy; 2024 Gopal's Portfolio</span>
         </div>
     </footer>
 
@@ -233,7 +233,7 @@ nav {
 }
 
 .circle:nth-child(2) {
-    background-image: url(pic1.png);
+    background-image: url(profile.png);
     background-size: 100%;
     background-repeat: no-repeat;
     width: 30rem;
